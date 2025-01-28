@@ -3,9 +3,5 @@
 <h2>👨‍💻 What the Duck? </h2>
 
 - <b>It is an IOS game available on TestFlight (must email me for permission)</b>
-  - [Storm Base](https://shadowhandstudios.itch.io/storm-base)
 
-
-
-
-
+- [Download the Gameplay Video]([path/to/your/video.mp4](https://github.com/saliao/WHatTheDuckDevLog/blob/main/AppDemoGame%20-%20Made%20with%20Clipchamp.mp4))
